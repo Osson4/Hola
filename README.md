@@ -1,1 +1,1 @@
-# Useful scripts that I use for imaging processing
+# Useful scripts for imaging processing
